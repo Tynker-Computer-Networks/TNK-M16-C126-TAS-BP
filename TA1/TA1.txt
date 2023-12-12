@@ -1,0 +1,4 @@
+Open the link to the toy store website:
+Login and the select any product from dashboard to open the product page. https://tnk-m16-toywebsite.onrender.com/order?id=3
+Change the id in the request url to see other products that are not listed on the dash board to complete the attack.
+ 
